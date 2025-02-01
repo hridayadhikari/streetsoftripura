@@ -106,9 +106,9 @@ body {
 
 /* Slideshow Animation */
 @keyframes slideShow {
-    0%, 100% { background-image: url('/assets/img1.JPG'); }
-    33% { background-image: url('/assets/img2.JPG'); }
-    66% { background-image: url('/assets/img3.JPG'); }
+    0%, 100% { background-image: url('/streetsoftripura/assets/img1.JPG'); }
+    33% { background-image: url('/streetsoftripura/assets/img2.JPG'); }
+    66% { background-image: url('/streetsoftripura/assets/img3.JPG'); }
 }
 
 /* Dark Overlay */
