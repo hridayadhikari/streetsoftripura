@@ -5,10 +5,11 @@ function toggleMenu() {
 }
 
 const images = [
-    '/streetsoftripura/assets/img1.jpg',
-    '/streetsoftripura/assets/img2.jpg',
-    '/streetsoftripura/assets/img3.jpg',
+    './assets/img1.jpg',
+    './assets/img2.jpg',
+    './assets/img3.jpg'
 ];
+
 
 let currentIndex = 0;
 
