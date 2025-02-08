@@ -274,17 +274,16 @@ p {
     .about-section {
         flex-direction: column;
         text-align: center;
-        height: auto; /* Allow height to adjust for content */
-        padding: 10vw;
     }
 
     .about-content, .about-image {
         min-width: 100%;
-        max-height: none; /* Remove height restriction */
+        padding: 10px;
     }
 
     .about-image img {
+        width: 90%;
         max-width: 100%;
-        height: auto; /* Allow image to resize */
+        height: auto;
     }
 }
